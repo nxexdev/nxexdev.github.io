@@ -1,1 +1,21 @@
-fuck me
+<!DOCTYPE html>
+<html>
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {background-color:#ffffff;background-repeat:no-repeat;background-position:top left;background-attachment:fixed;}
+h1{font-family:Arial, sans-serif;color:#000000;background-color:#ffffff;}
+p {font-family:Times, serif;font-size:14px;font-style:normal;font-weight:normal;color:#000000;background-color:#ffffff;}
+</style>
+</head>
+<body>
+<h1></h1>
+<p>Welcome to my official webpage! You can find all of my current projects on my github or you can join my official discord server!</p>
+<p></p>
+<p>You can find my github here: </p>
+<p>and my discord server here:</p>
+</body>
+</html>
